@@ -62,16 +62,3 @@ LostAndFoundManagement/
 ├── .gitignore
 └── README.md
 
-
-
-
-## API Documentation
-
-Here’s how the Swagger UI looks:
-
-![Swagger UI](docs/User.png)
-![Swagger UI](docs/Lost_item.png)
-![Swagger UI](docs/Found_item.png)
-![Swagger UI](docs/Claims.png)
-
-You can explore all endpoints at: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
